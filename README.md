@@ -1,6 +1,7 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=250&section=header&text=Hi%20there,%20I'm%20Kunal!&fontSize=70&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Cloud-Native%20Systems&descAlign=50&descAlignY=60" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=130&section=header&text=Hi%20there%2C%20I%27m%20Kunal!&fontSize=65&fontColor=ffffff&desc=Software%20Engineer%20%7C%20Cloud-Native%20Systems&descAlign=50&descAlignY=80&reversal=true" />
 </div>
+
 
 <h3 align="center">
   Master's in CS @ NCSU | Building Scalable Applications & Resilient Infrastructure
