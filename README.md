@@ -48,7 +48,7 @@ Rather than sticking to a single stack, I select the best tool for the job—whe
 
 ### 🚀 Featured Projects
 
-#### 🥗 **[Eatsential (AI Health Concierge)](https://github.com/KunalJindalDev/Eatsential)**
+#### 🥗 **[Eatsential](https://github.com/KunalJindalDev/Eatsential)**
 *Full Stack AI Application | Python, FastAPI, React, LLMs*
 - **Fortified** an inherited codebase by engineering a robust CI pipeline (GitHub Actions) with 30+ automated tests.
 - Implemented an RAG-based AI chatbot for personalized nutrition advice using synthetic data and structured user profiles.
@@ -58,8 +58,8 @@ Rather than sticking to a single stack, I select the best tool for the job—whe
 - Transformed a monolithic legacy app into a scalable microservices architecture.
 - Implemented **CQRS** pattern to decouple read/write workloads and reduced database load by **60%** using Redis Cache-Aside.
 
-#### 🔄 **[Weeklies DevOps Platform](https://github.com/KunalJindalDev/SE25Fall)**
-*Automation & CI/CD | GitHub Actions, Shell Scripting*
+#### 🔄 **[Weeklies](https://github.com/KunalJindalDev/SE25Fall)**
+*Automation & CI/CD | GitHub Actions, Unit/Integration/E2E Testing*
 - Designed a unified multi-workflow CI/CD system integrating testing, linting, and automated documentation.
 - Built custom automation logic for dynamic test badges and structured logging.
 
