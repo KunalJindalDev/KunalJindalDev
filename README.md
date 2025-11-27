@@ -64,6 +64,11 @@ Rather than sticking to a single stack, I select the best tool for the job wheth
 - Designed a unified multi-workflow CI/CD system integrating testing, linting, and automated documentation.
 - Built custom automation logic for dynamic test badges and structured logging.
 
+#### 🧠 **[MedRAX — Rule-Guided Medical Diagnosis Agent](https://github.com/KunalJindalDev/rule-guided-medical-agent)**
+*AI Agentic System | LangGraph, Llama 3.1, Multimodal Tools*
+- Built a hybrid **rule-based + LLM** diagnosis agent with two reasoning modes, improving stability and reducing hallucinations in medical predictions.
+- Integrated multimodal tools (X-ray classifier, segmentation models, VLMs) with a structured reasoning trace using **LangGraph** for transparent, debuggable workflows.
+
 ---
 
 ### 📊 GitHub Stats
