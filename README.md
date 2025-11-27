@@ -22,7 +22,7 @@
 
 I am a **Software Engineer** and **Master of Computer Science student at NC State University**, focused on engineering high-performance backend systems. I specialize in bridging the gap between application logic and cloud infrastructure.
 
-Rather than sticking to a single stack, I select the best tool for the job—whether it's the enterprise robustness of **.NET**, the flexibility of **Python**, or the speed of **Node.js**. My goal is to build software that is not just functional, but scalable, observable, and cloud-ready.
+Rather than sticking to a single stack, I select the best tool for the job whether it's the enterprise robustness of **.NET**, the flexibility of **Python**, or the speed of **Node.js**. My goal is to build software that is not just functional, but scalable, observable, and cloud-ready.
 
 - 💼 **Experience:** Previously engineered AdTech solutions at **DeltaX** and internal developer tools at **Tech Mahindra**.
 - 🎯 **Core Focus:** Distributed Systems, Backend Engineering, and Cloud Architecture.
@@ -49,10 +49,10 @@ Rather than sticking to a single stack, I select the best tool for the job—whe
 
 ### 🚀 Featured Projects
 
-#### 🥗 **[Eatsential](https://github.com/KunalJindalDev/Eatsential)**
+#### 🥗 **[Eatsential](https://github.com/KunalJindalDev/Eatsential) - *Currently Building***
 *Full Stack AI Application | Python, FastAPI, React, LLMs*
 - **Fortified** an inherited codebase by engineering a robust CI pipeline (GitHub Actions) with 30+ automated tests.
-- Implemented an RAG-based AI chatbot for personalized nutrition advice using synthetic data and structured user profiles.
+- Implemented a RAG-based AI chatbot for personalized nutrition advice using synthetic data and structured user profiles.
 
 #### ☁️ **[Distributed Media Microservice](https://github.com/KunalJindalDev/-Distributed_Media_Microservice)**
 *Backend Engineering | C#, .NET 8, CQRS, Docker, Redis*
