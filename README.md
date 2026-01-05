@@ -49,7 +49,7 @@ Rather than sticking to a single stack, I select the best tool for the job wheth
 
 ### 🚀 Featured Projects
 
-#### 🥗 **[Eatsential](https://github.com/KunalJindalDev/Eatsential)
+#### 🥗 **[Eatsential](https://github.com/KunalJindalDev/Eatsential)**
 *Full Stack AI Application | Python, FastAPI, React, LLMs*
 - **Fortified** an inherited codebase by engineering a robust CI pipeline (GitHub Actions) with 30+ automated tests.
 - Implemented a RAG-based AI chatbot for personalized nutrition advice using synthetic data and structured user profiles.
@@ -68,6 +68,11 @@ Rather than sticking to a single stack, I select the best tool for the job wheth
 *AI Agentic System | LangGraph, Llama 3.1, Multimodal Tools*
 - Built a hybrid **rule-based + LLM** diagnosis agent with two reasoning modes, improving stability and reducing hallucinations in medical predictions.
 - Integrated multimodal tools (X-ray classifier, segmentation models, VLMs) with a structured reasoning trace using **LangGraph** for transparent, debuggable workflows.
+
+#### 🦷 **[DentAI — Real-Time Panoramic X-Ray Analysis](https://github.com/KunalJindalDev/Dental-ai-platform)**
+*Computer Vision & Distributed Systems | YOLOv8, Multi-LLM Concurrency, React*
+- Engineered a high-precision detection pipeline achieving **91% Precision** on impacted wisdom teeth by applying a **Data-Centric AI** strategy to optimize a YOLOv8m architecture on a constrained dataset (n=96).
+- Architected a **non-blocking concurrent backend** using ThreadPoolExecutor to parallelize inference across 3 LLMs (GPT-4o, Gemini, Claude), reducing end-to-end system latency by **~60%** compared to sequential execution.
 
 ---
 
