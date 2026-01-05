@@ -72,7 +72,7 @@ Rather than sticking to a single stack, I select the best tool for the job wheth
 #### 🦷 **[DentAI — Real-Time Panoramic X-Ray Analysis](https://github.com/KunalJindalDev/Dental-ai-platform)**
 *Computer Vision & Distributed Systems | YOLOv8, Multi-LLM Concurrency, React*
 - Engineered a high-precision detection pipeline achieving **91% Precision** on impacted wisdom teeth by applying a **Data-Centric AI** strategy to optimize a YOLOv8m architecture on a constrained dataset (n=96).
-- Architected a **non-blocking concurrent backend** using ThreadPoolExecutor to parallelize inference across 3 LLMs (GPT-4o, Gemini, Claude), reducing end-to-end system latency by **~60%** compared to sequential execution.
+- Architected a **non-blocking concurrent backend** using ThreadPoolExecutor to parallelize inference across 4 LLMs (GPT-4o, Gemini, Claude & Groq), reducing end-to-end system latency by **~60%** compared to sequential execution.
 
 ---
 
