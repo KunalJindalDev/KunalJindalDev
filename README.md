@@ -49,7 +49,7 @@ Rather than sticking to a single stack, I select the best tool for the job wheth
 
 ### 🚀 Featured Projects
 
-#### 🥗 **[Eatsential](https://github.com/KunalJindalDev/Eatsential) - *Currently Building***
+#### 🥗 **[Eatsential](https://github.com/KunalJindalDev/Eatsential)
 *Full Stack AI Application | Python, FastAPI, React, LLMs*
 - **Fortified** an inherited codebase by engineering a robust CI pipeline (GitHub Actions) with 30+ automated tests.
 - Implemented a RAG-based AI chatbot for personalized nutrition advice using synthetic data and structured user profiles.
