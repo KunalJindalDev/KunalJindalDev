@@ -26,7 +26,7 @@ I am an **AI/ML-focused Software Engineer** and **MS Computer Science student** 
 
 Most recently, I worked as an **AI Engineer Intern** at **Yodlee**, where I worked on large-scale transaction intelligence, entity resolution, graph-derived signals, agentic research workflows, and internal knowledge systems. My broader experience spans **full-stack development, backend APIs, AI/ML applications, DevOps automation, distributed systems, and robotics/perception pipelines.**
 
-I enjoy working across the stack: from experimenting with **LLMs, embeddings, RAG, computer vision, and ML pipelines**, to building APIs in **FastAPI / ASP.NET Core**, designing distributed services with **gRPC**, working with **Spark and Airflow**, containerizing services with **Docker**, and automating infrastructure and CI/CD workflows.**.
+I enjoy working across the stack: from experimenting with **LLMs, embeddings, RAG, computer vision, and ML pipelines**, to building APIs in **FastAPI / ASP.NET Core**, designing distributed services with **gRPC**, working with **Spark and Airflow**, containerizing services with **Docker**, and automating infrastructure and CI/CD workflows.
 
 - 🎓 **Currently:** MS CS @ NC State University  
 - 💼 **Experience:** AI Engineer Intern @ Yodlee; Software Engineering Intern @ DeltaX; Software Development Intern @ Dev IT Services; Technical Intern @ Tech Mahindra
