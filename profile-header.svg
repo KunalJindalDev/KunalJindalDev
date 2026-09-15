@@ -1,34 +1,53 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="215" viewBox="0 0 1200 215" role="img" aria-labelledby="title desc">
-<title id="title">Hi There, I'm Kunal!</title>
-<desc id="desc">AI/ML Engineer | Software Systems | Distributed Infrastructure</desc>
-<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
-<path fill="url(#bg)" opacity=".22"
-  d="M0 0H1200V207Q1050 214 900 207T600 207T300 207T0 207Z">
-  <animate attributeName="d" dur="14s" repeatCount="indefinite"
-    values="
-      M0 0H1200V207Q1050 214 900 207T600 207T300 207T0 207Z;
-      M0 0H1200V207Q1050 200 900 207T600 207T300 207T0 207Z;
-      M0 0H1200V207Q1050 214 900 207T600 207T300 207T0 207Z"/>
-</path>
+<svg xmlns="http://www.w3.org/2000/svg"
+  width="1200" height="235" viewBox="0 0 1200 235"
+  role="img" aria-labelledby="title desc">
 
-<path fill="url(#bg)" opacity=".45"
-  d="M0 0H1200V202Q1050 195 900 202T600 202T300 202T0 202Z">
-  <animate attributeName="d" dur="12s" repeatCount="indefinite"
-    values="
-      M0 0H1200V202Q1050 195 900 202T600 202T300 202T0 202Z;
-      M0 0H1200V202Q1050 209 900 202T600 202T300 202T0 202Z;
-      M0 0H1200V202Q1050 195 900 202T600 202T300 202T0 202Z"/>
-</path>
+  <title id="title">Hi There, I'm Kunal!</title>
+  <desc id="desc">
+    AI/ML Engineer | Software Systems | Distributed Infrastructure
+  </desc>
 
-<path fill="url(#bg)"
-  d="M0 0H1200V196Q1050 203 900 196T600 196T300 196T0 196Z">
-  <animate attributeName="d" dur="10s" repeatCount="indefinite"
-    values="
-      M0 0H1200V196Q1050 203 900 196T600 196T300 196T0 196Z;
-      M0 0H1200V196Q1050 189 900 196T600 196T300 196T0 196Z;
-      M0 0H1200V196Q1050 203 900 196T600 196T300 196T0 196Z"/>
-</path>
-<g fill="white" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif">
-<text x="600" y="91" font-size="62" font-weight="700">Hi There, I'm Kunal!</text>
-<text x="600" y="140" font-size="23">AI/ML Engineer | Software Systems | Distributed Infrastructure</text>
-</g></svg>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563eb"/>
+      <stop offset="100%" stop-color="#7c3aed"/>
+    </linearGradient>
+  </defs>
+
+  <path fill="url(#bg)" opacity=".22"
+    d="M0 0H1200V214Q1050 242 900 214T600 214T300 214T0 214Z">
+    <animate attributeName="d" dur="14s" repeatCount="indefinite"
+      values="
+        M0 0H1200V214Q1050 242 900 214T600 214T300 214T0 214Z;
+        M0 0H1200V214Q1050 186 900 214T600 214T300 214T0 214Z;
+        M0 0H1200V214Q1050 242 900 214T600 214T300 214T0 214Z"/>
+  </path>
+
+  <path fill="url(#bg)" opacity=".45"
+    d="M0 0H1200V204Q1050 176 900 204T600 204T300 204T0 204Z">
+    <animate attributeName="d" dur="12s" repeatCount="indefinite"
+      values="
+        M0 0H1200V204Q1050 176 900 204T600 204T300 204T0 204Z;
+        M0 0H1200V204Q1050 232 900 204T600 204T300 204T0 204Z;
+        M0 0H1200V204Q1050 176 900 204T600 204T300 204T0 204Z"/>
+  </path>
+
+  <path fill="url(#bg)"
+    d="M0 0H1200V196Q1050 224 900 196T600 196T300 196T0 196Z">
+    <animate attributeName="d" dur="10s" repeatCount="indefinite"
+      values="
+        M0 0H1200V196Q1050 224 900 196T600 196T300 196T0 196Z;
+        M0 0H1200V196Q1050 168 900 196T600 196T300 196T0 196Z;
+        M0 0H1200V196Q1050 224 900 196T600 196T300 196T0 196Z"/>
+  </path>
+
+  <g fill="white" text-anchor="middle"
+    font-family="DejaVu Sans, Arial, sans-serif">
+    <text x="600" y="91" font-size="62" font-weight="700">
+      Hi There, I'm Kunal!
+    </text>
+    <text x="600" y="140" font-size="23">
+      AI/ML Engineer | Software Systems | Distributed Infrastructure
+    </text>
+  </g>
+</svg>
