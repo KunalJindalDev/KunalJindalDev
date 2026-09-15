@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-labelledby="title desc">
+<title id="title">Hi There, I'm Kunal!</title>
+<desc id="desc">AI/ML Engineer | Software Systems | Distributed Infrastructure</desc>
+<defs><linearGradient id="bg" x1="0" x2="1"><stop stop-color="#2563eb"/><stop offset="1" stop-color="#7c3aed"/></linearGradient></defs>
+<path fill="url(#bg)" opacity=".22" d="M0 0H1200V221C1000 180 800 245 600 245C400 245 200 180 0 221Z"/>
+<path fill="url(#bg)" opacity=".45" d="M0 0H1200V207C1000 245 800 190 600 190C400 190 200 245 0 207Z"/>
+<path fill="url(#bg)" d="M0 0H1200V192C1000 150 800 214 600 214C400 214 200 150 0 192Z">
+<animate attributeName="d" dur="12s" repeatCount="indefinite" values="M0 0H1200V192C1000 150 800 214 600 214C400 214 200 150 0 192Z;M0 0H1200V192C1000 220 800 178 600 178C400 178 200 220 0 192Z;M0 0H1200V192C1000 150 800 214 600 214C400 214 200 150 0 192Z"/>
+</path>
+<g fill="white" text-anchor="middle" font-family="DejaVu Sans,Arial,sans-serif">
+<text x="600" y="91" font-size="62" font-weight="700">Hi There, I'm Kunal!</text>
+<text x="600" y="140" font-size="23">AI/ML Engineer | Software Systems | Distributed Infrastructure</text>
+</g></svg>
