@@ -1,5 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=150&section=header&text=Hi%20There%2C%20I%27m%20Kunal!&fontSize=65&fontColor=ffffff&fontAlignY=32&desc=AI%2FML%20Engineer%20%7C%20Software%20Systems%20%7C%20Distributed%20Infrastructure&descSize=18&descAlign=50&descAlignY=68&reversal=true" />
+  <img
+    width="100%"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:7c3aed&height=200&section=header&text=Hi%20There%2C%20I%27m%20Kunal!&fontSize=58&fontColor=ffffff&fontAlignY=30&desc=AI%2FML%20Engineer%20%7C%20Software%20Systems%20%7C%20Distributed%20Infrastructure&descSize=17&descAlign=50&descAlignY=51&reversal=true"
+    alt="Hi There, I'm Kunal! AI/ML Engineer | Software Systems | Distributed Infrastructure"
+  />
 </div>
 
 <h3 align="center">
